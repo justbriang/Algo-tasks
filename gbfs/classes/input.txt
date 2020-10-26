@@ -1,0 +1,17 @@
+14
+SportsComplex Siwaka 450
+Siwaka Ph1A 10
+Siwaka Ph1B 230
+Ph1A Ph1B 100
+Ph1A Mada 850
+Ph1B Phase2 112
+Ph1B STC 50
+STC Phase2 50
+STC ParkingLot 250
+Phase2 Phase3 500
+Phase3 ParkingLot 350
+Phase2 J1 600
+J1 Mada 200
+Mada ParkingLot 700
+SportsComplex
+Mada
